@@ -1,0 +1,18 @@
+BFS (Breadth-First Search)
+enqueue: a ['a'] @
+dequeue: a []
+enqueue: b ['b'] @
+enqueue: c ['b', 'c'] @
+dequeue: b ['c']
+enqueue: d ['c', 'd'] @
+enqueue: e ['c', 'd', 'e'] @
+dequeue: c ['d', 'e']
+dequeue: d ['e']
+enqueue: f ['e', 'f'] @
+dequeue: e ['f']
+enqueue: g ['f', 'g'] @
+enqueue: h ['f', 'g', 'h'] @
+dequeue: f ['g', 'h']
+dequeue: g ['h']
+dequeue: h []
+['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']

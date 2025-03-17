@@ -1,0 +1,8 @@
+X: 4
+Y: 3
+X == Y  : False
+X != Y  : True
+X > Y   : True
+X < Y   : False
+X >= Y  : True
+X <= Y  : False

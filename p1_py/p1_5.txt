@@ -1,0 +1,3 @@
+{'apple': 10, 'banana': 20, 'cranberry': 30}
+<class 'dict'>
+10

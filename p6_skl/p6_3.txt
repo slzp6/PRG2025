@@ -1,0 +1,3 @@
+dict_keys(['data', 'target', 'frame', 'target_names', 'DESCR', 'feature_names', 'filename', 'data_module'])
+(150, 4)
+(150,)

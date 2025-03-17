@@ -1,0 +1,3 @@
+a - b :  True
+b - c :  False
+neighbors('a'):  ['b', 'c', 'e']

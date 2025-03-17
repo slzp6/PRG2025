@@ -1,0 +1,7 @@
+<class 'numpy.ndarray'>
+int8
+[10 20 30 40 50]
+---
+<class 'numpy.ndarray'>
+float64
+[10. 20. 30. 40. 50.]

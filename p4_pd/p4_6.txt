@@ -1,0 +1,10 @@
+          name  quantity  weight
+r0       apple        10    10.0
+r1      banana        20    20.0
+r2   cranberry        30    30.0
+r3      durian        40    40.0
+r4  elderberry        50    50.0
+---
+20.0
+---
+cranberry

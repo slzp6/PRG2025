@@ -1,0 +1,13 @@
+Tokyo
+<class 'str'>
+b'Tokyo'
+<class 'bytes'>
+---
+bytearray(b'Osaka')
+<class 'bytearray'>
+bytearray(b'asaka')
+---
+b'Japan'
+<class 'memoryview'>
+b'pan'
+[74, 97, 112, 97, 110]

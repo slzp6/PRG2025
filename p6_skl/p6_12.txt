@@ -1,0 +1,14 @@
+112
+38
+112
+38
+array([0, 1, 2, 2, 2, 1, 2, 2, 2, 2, 0, 1, 1, 1, 2, 1, 0, 1, 2, 1, 1, 2,
+       2, 0, 2, 0, 0, 0, 2, 0, 0, 2, 2, 0, 0, 1, 2, 1])
+array([0, 1, 2, 2, 2, 1, 2, 2, 2, 2, 0, 1, 1, 1, 2, 1, 0, 1, 2, 1, 1, 2,
+       2, 0, 1, 0, 0, 0, 1, 0, 0, 2, 2, 0, 0, 1, 2, 1])
+array([ True,  True,  True,  True,  True,  True,  True,  True,  True,
+        True,  True,  True,  True,  True,  True,  True,  True,  True,
+        True,  True,  True,  True,  True,  True, False,  True,  True,
+        True, False,  True,  True,  True,  True,  True,  True,  True,
+        True,  True])
+0.9473684210526315

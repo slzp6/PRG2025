@@ -1,0 +1,4 @@
+{'dekopon', 'banana', 'apple', 'coconut'}
+<class 'set'>
+frozenset({'banana', 'apple', 'coconut'})
+<class 'frozenset'>

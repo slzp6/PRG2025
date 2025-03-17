@@ -1,0 +1,19 @@
+--- org
+  Series       X     Y
+0      I      10  8.04
+1      I       8   NaN
+2      I      13  7.58
+3      I       9   NaN
+4      I -999999  8.33
+
+--- query
+  Series       X     Y
+4      I -999999  8.33
+
+--- mask
+  Series   X     Y
+0      I  10  8.04
+1      I   8   NaN
+2      I  13  7.58
+3      I   9   NaN
+4      I   1  8.33

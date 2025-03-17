@@ -1,0 +1,2 @@
+['apple', 'banana', 'coconut', 'dekopon']
+['APPLE', 'BANANA', 'COCONUT', 'DEKOPON']

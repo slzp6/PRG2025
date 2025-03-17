@@ -1,0 +1,6 @@
+100
+<class 'int'>
+3.14
+<class 'float'>
+1j
+<class 'complex'>

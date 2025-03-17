@@ -1,0 +1,6 @@
+<class 'list'>
+[10, 20, 30, 40, 50]
+---
+<class 'numpy.ndarray'>
+int64
+[10 20 30 40 50]

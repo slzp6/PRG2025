@@ -1,0 +1,4 @@
+The Open University of Japan
+<class 'str'>
+Computer Science
+<class 'str'>

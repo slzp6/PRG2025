@@ -1,0 +1,6 @@
+[10, 20, 30]
+<class 'list'>
+(100, 200, 300)
+<class 'tuple'>
+[5, 7, 9]
+<class 'range'>
