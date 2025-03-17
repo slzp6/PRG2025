@@ -1,0 +1,16 @@
+imageio
+keras
+matplotlib
+networkx
+numpy
+pillow
+pooch
+psutil
+pydot
+pylint
+python-graphviz
+scikit-learn
+scipy
+seaborn
+tensorflow
+yapf
